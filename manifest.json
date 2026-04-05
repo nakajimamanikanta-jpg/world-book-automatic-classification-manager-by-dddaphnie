@@ -4,5 +4,5 @@
     "version": "1.1.0",
     "description": "自动分类角色绑定书与通用书，支持自定义分类、折叠与重命名。",
     "author": "dddaphnie",
-    "js": "index.js"   "js"   "js": "index.js"   "index.js"
+    "js": "index.js"
 }
